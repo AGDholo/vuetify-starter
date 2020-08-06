@@ -1,4 +1,23 @@
-# vuetify-started
+# vuetify-starter
+
+Vue enabled feature:
+
+* Babel
+* PWA
+* Router
+* Vuex
+* CSS Pre-processors
+* Linter
+* Unit
+* E2E
+
+Vuetify enabled feature:
+
+* I18N config `src\plugins\vuetify.js`
+* Custom theme `src\main.js`
+* Icons CDN `public\index.html`
+* SASS variables `src\scss\variables.scss`
+
 
 ## Project setup
 ```
